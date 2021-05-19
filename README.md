@@ -1,0 +1,1 @@
+Hi I'm Matthew Leong. I'm a Master of Science in Business Analytics UT Austin graduate. I place a heavy emphasis on understanding the whole context of a problem to solve it in order to find the best unbiased solution. My github showcases some of the work I've done in the program. 
